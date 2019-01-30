@@ -1,3 +1,10 @@
-WorkerThread.class
+httpRequest/HttpRequestMethod.class
+helpers/Constants.class
+helpers/Logger.class
+httpResponse/HttpResponse.class
 JavaHTTPServer.class
 Application.class
+httpResponse/ResponseStatus.class
+httpResponse/ClientErrorHttpResponse.class
+httpResponse/SuccessfulHttpResponse.class
+httpResponse/ServerErrorHttpResponse.class
