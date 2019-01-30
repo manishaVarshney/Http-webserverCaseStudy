@@ -6,12 +6,12 @@ Works on HTTP/1.1 protocol with keep-alive behavior.
 `mvn clean install`
 
 ## Command to start the server
-`java -jar target/http-web-server-1.0-SNAPSHOT.jar <git_workspace_abs_path>`
-For ex. /Users/manisha.v/AdobeCaseStudy/
+1. `java -jar target/http-web-server-1.0-SNAPSHOT.jar <git_workspace_abs_path>`
+2. For ex. /Users/manisha.v/AdobeCaseStudy/
 
 ## Usage
-`localhost:8090/index.html`
-`localhost:8090/randomFile.htm`
+1. `localhost:8090/index.html`
+2. `localhost:8090/randomFile.htm`
 
 ## Command to stop the server
 `ctrl+c`
