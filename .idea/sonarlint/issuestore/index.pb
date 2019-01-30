@@ -11,5 +11,3 @@ K
 src/main/resources/404.html,f/e/fee42707e6d4d1fbed3da704e5c8f8058781da4c
 M
 src/main/resources/index.html,2/6/260363987e0abcc0ce7a7113137f6ba1c3d9a0bb
-O
-src/main/java/WorkerThread.java,0/c/0c4bb24e05cdd37f6036d3e0510e17fb8a0a313b
