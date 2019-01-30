@@ -1,0 +1,5 @@
+
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“–ış8Û±ê‰-
+Fsquid:S1068	"(Remove this unused "name" private field.(Ë¥¼8„æ÷é‰-
+1squid:S1220""Move this file to a named package.
+osquid:UselessImportCheck"DRemove this unused import 'java.util.concurrent.ThreadPoolExecutor'.(¦ÿöÊ8øøé‰-

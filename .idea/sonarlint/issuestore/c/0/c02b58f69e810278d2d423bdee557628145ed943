@@ -1,0 +1,12 @@
+
+Ksquid:S1068"(Remove this unused "pool" private field.(”„Žßúÿÿÿÿ8•®ƒê‰-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(õÙ”¡úÿÿÿÿ8´–ÚÔ‰-
+U
+squid:S106)"9Replace this use of System.out or System.err by a logger.(ÜÉŠs8´–ÚÔ‰-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(×îö¤8´–ÚÔ‰-
+nsquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(†Ÿ«úÿÿÿÿ8•®ƒê‰-
+1squid:S1220""Move this file to a named package.
+vsquid:S1450"SRemove the "pool" field and declare it as a local variable in the relevant methods.(”„Žßúÿÿÿÿ8¢Ä¶é‰-
+xsquid:S1450"ZRemove the "connections" field and declare it as a local variable in the relevant methods.(¯çƒ­8½Õºé‰-
