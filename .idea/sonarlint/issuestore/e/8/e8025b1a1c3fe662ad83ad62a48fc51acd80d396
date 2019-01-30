@@ -1,0 +1,25 @@
+
+\
+squid:S106…"9Replace this use of System.out or System.err by a logger.( óÜõúÿÿÿÿ8‡êÚÔ‰-
+1squid:S1220""Move this file to a named package.
+esquid:S1192I"GDefine a constant instead of duplicating this literal "Date: " 3 times.(ÍßÂ±8‡êÚÔ‰-
+V
+squid:S106y"9Replace this use of System.out or System.err by a logger.(±Ÿ­ş8‡êÚÔ‰-
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(Éíâ¼ıÿÿÿÿ8‡êÚÔ‰-
+Csquid:S1659&"%Declare "dataOut" on a separate line.(ÜçåØ8‡êÚÔ‰-
+?squid:S1659&"!Declare "out" on a separate line.(ÜçåØ8‡êÚÔ‰-
+dsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(¨‚÷¨ûÿÿÿÿ8®ÊÔ‰-
+squid:S1192H"lDefine a constant instead of duplicating this literal "Server: Java HTTP Server from SSaurel : 1.0" 3 times.(ò‚¡Çıÿÿÿÿ8‡êÚÔ‰-
+V
+squid:S106l"9Replace this use of System.out or System.err by a logger.(óí¶8‡êÚÔ‰-
+rsquid:S1192J"ODefine a constant instead of duplicating this literal "Content-type: " 3 times.(ì¾éÇúÿÿÿÿ8’›Ô‰-
+V
+squid:S106<"9Replace this use of System.out or System.err by a logger.(Ş²ğ—8‡êÚÔ‰-
+[
+squid:S106u"9Replace this use of System.out or System.err by a logger.(´¸Ÿ³üÿÿÿÿ8‡êÚÔ‰-
+W
+squid:S106µ"9Replace this use of System.out or System.err by a logger.(¢õ¬8‡êÚÔ‰-
+nsquid:S2674’"JCheck the return value of the "read" call to see how many bytes were read.(¸‹ûÄùÿÿÿÿ8‡êÚÔ‰-
+tsquid:S1192K"QDefine a constant instead of duplicating this literal "Content-length: " 3 times.(‡Í±Ïûÿÿÿÿ8’›Ô‰-
+msquid:S1192B"JDefine a constant instead of duplicating this literal "text/html" 3 times.(Ñûûùÿÿÿÿ8‡êÚÔ‰-
